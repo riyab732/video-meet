@@ -1,4 +1,4 @@
-# video_chat_webapp
+# video-meet
 This is a simple video-chat webapp made using NodeJS, Socket.io, and Peerjs(WebRTC)
 ![image](https://user-images.githubusercontent.com/76397477/125462827-383a2822-8920-4e07-bca5-eb6a857bbcfe.png)
 
