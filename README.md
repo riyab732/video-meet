@@ -8,9 +8,9 @@ This is a simple video-chat webapp made using NodeJS, Socket.io, and Peerjs(WebR
 
 1. First install node in your system
 
-2. Clone the repository using command - " git https://github.com/riyab732/video_chat_webapp.git "
+2. Clone the repository using command - " git https://github.com/riyab732/video-meet.git "
 
-3. Navigate to the directory- cd video_chat_webapp
+3. Navigate to the directory- cd video-meet
 
 4. Install the required dependecies npm install, npm i nodemon
 
